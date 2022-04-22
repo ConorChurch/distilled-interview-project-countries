@@ -51,9 +51,8 @@ export default class CountryInfo extends React.Component {
 
     // Renders the countries information to the screen
     render(){
-
         // Loops through languages of the country and outputs them
-        // The last kanguage does not need a comman at the end
+        // The last language does not need a comma at the end
         const languages = []
         for(var i = 0; i < this.state.languages.length; i++){
             if(i !== this.state.languages.length-1){
