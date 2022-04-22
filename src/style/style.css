@@ -1,0 +1,41 @@
+body{
+
+}
+
+.countryList {
+
+    border: 1px solid rgb(160, 57, 57);
+    left: 0px;
+    text-align: left;
+    font-weight: bold;
+    padding: 60px;
+    position: relative;
+    margin: auto;
+}
+
+.selectedCountry {
+
+    border: 1px solid rgb(64, 57, 160);
+    margin: 20px;
+    font-weight: bold;
+    padding: 10px;
+
+}
+.buttons {
+    margin: 20px;
+    right: 0;
+    text-align-last: left;
+}
+.bordering {
+    padding: 10px;
+    margin: 20px;
+    text-align-last: left;
+}
+
+.borders {
+    border: 1px solid rgb(64, 57, 160);
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+    text-align-last: left;
+}

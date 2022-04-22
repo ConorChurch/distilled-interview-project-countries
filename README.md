@@ -3,6 +3,15 @@
 For displaying countries to the User.
 The User can select a country and more info will be displayed.
 
+"axios" should already be in the package.json
+
+running:
+
+### `npm install`
+
+will install axios locally, if not already installed
+
+Run the app using the command: 
 
 ### `npm start`
 
